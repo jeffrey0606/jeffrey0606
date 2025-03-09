@@ -1,10 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on [`WhoShares`](https://whoshares.hooreo.com/), [`DevCompanion`](https://github.com/jeffrey0606/DevCompanion/)
-- 🌱 I’m currently learning `...`
-- 👯 I’m looking to collaborate on a Flutter Open-Source project!
-- 💬 Ask me about Flutter 😉
-- ⚡ Fun fact: A `LIV FC` fan that likes `Man Utd` as well 😁
+I'm Jeffrey,
+
+I build stuff...
 
 ### Languages & Tools
 
